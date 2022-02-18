@@ -2,7 +2,7 @@
 a = [69, 420, 123]
 
 # 2. Compare the first and last number in your list and store the resulting boolean in a variable
-b = a[0] > a[2] #use the position statement instead of using the actual data.
+b = a[0] > a[2] #use the position statement instead of using the actual data. or use a[-1] to access the last info in the list
 
 # 3. Write an if statement that uses your boolean from step 2. If it's true print out a happy message otherwise print out a sad one.
 if b:
